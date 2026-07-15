@@ -1,4 +1,4 @@
-transformers>=4.56.0
+transformers>=4.57.1,<5
 torch>=2.8.0
 accelerate>=1.10.0
 sentencepiece>=0.2.0
@@ -12,3 +12,9 @@ scikit-learn>=1.7.1
 
 ipykernel>=6.30.0
 jupyter>=1.1.1
+datasets
+
+
+numpy
+matplotlib
+librosa
