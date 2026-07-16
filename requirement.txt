@@ -18,3 +18,8 @@ datasets
 numpy
 matplotlib
 librosa
+
+torchaudio
+torchvision
+torch
+pydub
