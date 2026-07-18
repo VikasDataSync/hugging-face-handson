@@ -8,6 +8,7 @@ dependencies = [
     "accelerate>=1.10.0",
     "datasets>=5.0.0",
     "diffusers>=0.39.0",
+    "gradio>=6.17.3",
     "huggingface-hub>=0.34.0",
     "ipykernel>=6.30.0",
     "jupyter>=1.1.1",

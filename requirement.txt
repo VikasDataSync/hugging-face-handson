@@ -17,3 +17,4 @@ librosa
 pydub
 opencv-python
 diffusers
+gradio
